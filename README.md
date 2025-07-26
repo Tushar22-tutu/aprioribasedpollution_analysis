@@ -76,6 +76,12 @@ The Apriori Algorithm is used to mine frequent itemsets and generate association
 - Scikit-learn (for encoding and scaling)
 
 ---
+## 📧 Contact
+**Author**: Tushar Walia  
+📫 [wtushar@gmail.com]  
 
-## 📂 Repository Structure
+
+---
+
+
 
